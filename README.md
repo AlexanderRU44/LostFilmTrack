@@ -21,7 +21,7 @@ https://www.lostfilm.download/rss.xml
 3.Попробуйте обновить расширение на странице chrome://extensions/
 
 
-**Установка**
+**Установка**:
 
 1.[Скачайте](https://github.com/AlexanderRU44/LostFilmTrack/archive/refs/heads/main.zip)
 
