@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LostFilmTrack",
+  "version": "1.0",
+  "description": "Свежие серии и фильмы с LostFilm за 24 часа или неделю",
+  "permissions": [],
+  "host_permissions": [
+    "*://*.lostfilm.download/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "LostFilmTrack"
+  }
+}
