@@ -17,7 +17,7 @@ https://www.lostfilm.download/rss.xml
 
 **Установка**
 
-1.Скачайте последний релиз из раздела [Текст ссылки](https://example.com)
+1. [Скачайте](https://github.com/AlexanderRU44/LostFilmTrack/archive/refs/heads/main.zip))
 
 2.Распакуйте ZIP архив
 
